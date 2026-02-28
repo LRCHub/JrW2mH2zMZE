@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "はじめまして",
+  "base_artist": "TWS",
+  "createdAt": "2026-02-28T10:01:15.237094Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はじめまして、恋。",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/01_はじめまして、恋。_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "はじめまして",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/02_はじめまして_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "はじめまして",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/03_はじめまして_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "- Dreaming Girl - 恋、はじめまして",
+      "artist": "Yukiko Okada",
+      "has_synced": true,
+      "path": "select/04_-_Dreaming_Girl_-_恋、はじめまして_Yukiko_Okada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "はじめまして、恋。",
+      "artist": "I've",
+      "has_synced": true,
+      "path": "select/05_はじめまして、恋。_I've.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "はじめまして、恋。",
+      "artist": "I've Sound",
+      "has_synced": true,
+      "path": "select/06_はじめまして、恋。_I've_Sound.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "はじめまして、恋。",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/07_はじめまして、恋。_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "はじめまして、恋。",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/08_はじめまして、恋。_KOTOKO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "-Dreamin' Girl- 恋、はじめまして",
+      "artist": "岡田有希子",
+      "has_synced": false,
+      "path": "select/09_-Dreamin'_Girl-_恋、はじめまして_岡田有希子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "-Dreaming Girl- 恋、はじめまして",
+      "artist": "岡田有希子",
+      "has_synced": false,
+      "path": "select/10_-Dreaming_Girl-_恋、はじめまして_岡田有希子.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "はじめまして",
+      "artist": "ラブリーサマーちゃん",
+      "has_synced": true,
+      "path": "select/11_はじめまして_ラブリーサマーちゃん.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "はじめまして、恋。",
+      "artist": "VA",
+      "has_synced": false,
+      "path": "select/12_はじめまして、恋。_VA.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "はじめまして",
+      "artist": "TWS",
+      "has_synced": true,
+      "path": "select/13_はじめまして_TWS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "はじめまして",
+      "artist": "Lovely Summer Chan (ラブリーサマーちゃん)",
+      "has_synced": true,
+      "path": "select/14_はじめまして_Lovely_Summer_Chan_(ラブリーサマーちゃん).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "01 【ASMR】はじめまして…異界の司書、リリア・フランジオです【ご挨拶・甘々ナデナデ】",
+      "artist": "kotoneiro",
+      "has_synced": true,
+      "path": "select/15_01_【ASMR】はじめまして...異界の司書、リリア・フランジオです【ご挨拶・甘々ナデナデ】_kotoneiro.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A01_はじめまして、JKママ・ひよのです♪",
+      "artist": "清楚工房",
+      "has_synced": true,
+      "path": "select/16_A01_はじめまして、JKママ・ひよのです♪_清楚工房.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじめまして",
+      "artist": "TWS",
+      "has_synced": false,
+      "path": "select/pl_01_はじめまして_TWS.txt"
+    }
+  ]
+}
